@@ -1,5 +1,6 @@
 {
   "name": "boilerplate-npm-gomix",
+  "author": "Raul Espina",
   "version": "1.0.0",
   "description": "[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)\"# Api-NodeJs\" \r \"# Api-NodeJs\"",
   "main": "server.js",
@@ -11,7 +12,6 @@
     "type": "git",
     "url": "git+https://github.com/raoole20/Api-NodeJs.git"
   },
-  "author": "Raul Espina",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/raoole20/Api-NodeJs/issues"
