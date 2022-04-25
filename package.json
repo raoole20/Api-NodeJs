@@ -1,15 +1,20 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"author": "Jane Doe",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+  "name": "boilerplate-npm-gomix",
+  "version": "1.0.0",
+  "description": "[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)\"# Api-NodeJs\" \r \"# Api-NodeJs\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raoole20/Api-NodeJs.git"
+  },
+  "author": "Raul Espina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raoole20/Api-NodeJs/issues"
+  },
+  "homepage": "https://github.com/raoole20/Api-NodeJs#readme"
 }
